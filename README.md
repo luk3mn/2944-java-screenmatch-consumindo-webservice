@@ -13,3 +13,10 @@ Projeto desenvolvido no quarto curso da formação Java da Alura
 - Utilizar a biblioteca externa GSON para fazer serialização e desserialização de dados;
 - Lidar com erros e tratar exceções;
 - Conhecer o pacote java.io para manipulação de arquivos.
+
+## Dependencias
+* [Gson » 2.10.1](https://mvnrepository.com/artifact/com.google.code.gson/gson/2.10.1)
+
+## Recursos Uteis
+* [Overview (Java SE 17 & JDK 17)](https://docs.oracle.com/en/java/javase/17/docs/api/)
+* [MVN Repository](https://mvnrepository.com/)
